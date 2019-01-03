@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 30F5-F64C
+
+ Directory of C:\Users\Pooja\Desktop\AWS\GIT examples
+
+03-01-2019  11:18    <DIR>          .
+03-01-2019  11:18    <DIR>          ..
+03-01-2019  11:18                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,449,992,192 bytes free
